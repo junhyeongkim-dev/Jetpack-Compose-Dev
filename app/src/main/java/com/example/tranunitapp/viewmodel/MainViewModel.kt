@@ -8,10 +8,7 @@ import com.example.tranunitapp.types.UnitType
 import dagger.hilt.android.lifecycle.HiltViewModel
 import javax.inject.Inject
 
-@HiltViewModel
-class MainViewModel @Inject constructor(
-
-) : ViewModel(), IMainActivityInput, IMainActivityOutput {
+class MainViewModel : ViewModel(), IMainActivityInput, IMainActivityOutput {
 
     var input: IMainActivityInput = this
     var output: IMainActivityOutput = this
