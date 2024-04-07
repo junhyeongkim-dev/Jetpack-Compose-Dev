@@ -1,4 +1,4 @@
-package com.example.tranunitapp.compose.keypad
+package com.example.tranunitapp.component.keypad
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
@@ -21,8 +21,8 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.example.tranunitapp.KEY_PAD_BACK
-import com.example.tranunitapp.compose.keypad.button.KeyPadButtonWrapper
-import com.example.tranunitapp.compose.keypad.model.KeyPadButton
+import com.example.tranunitapp.component.keypad.button.KeyPadButtonWrapper
+import com.example.tranunitapp.component.keypad.model.KeyPadButton
 import com.example.tranunitapp.ui.theme.TranUnitAppTheme
 import com.example.tranunitapp.viewmodel.IMainActivityInput
 

@@ -1,4 +1,4 @@
-package com.example.tranunitapp.compose.keypad.model
+package com.example.tranunitapp.component.keypad.model
 
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.vector.ImageVector

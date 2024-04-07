@@ -1,6 +1,7 @@
 package com.example.tranunitapp.viewmodel
 
 import androidx.lifecycle.LiveData
+import com.example.tranunitapp.types.UnitType
 
 interface IMainActivityOutput {
     val inputUnitType: LiveData<UnitType>

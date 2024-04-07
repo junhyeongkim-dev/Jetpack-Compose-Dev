@@ -10,8 +10,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.tranunitapp.compose.keypad.Content
-import com.example.tranunitapp.compose.keypad.KeyPad
+import com.example.tranunitapp.component.keypad.Content
+import com.example.tranunitapp.component.keypad.KeyPad
 import com.example.tranunitapp.ui.theme.TranUnitAppTheme
 import com.example.tranunitapp.viewmodel.MainViewModel
 

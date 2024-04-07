@@ -1,4 +1,4 @@
-package com.example.tranunitapp.compose.keypad.button
+package com.example.tranunitapp.component.keypad.button
 
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.RowScope
@@ -20,7 +20,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.em
 import androidx.compose.ui.unit.sp
-import com.example.tranunitapp.compose.keypad.model.KeyPadButton
+import com.example.tranunitapp.component.keypad.model.KeyPadButton
 import com.example.tranunitapp.ui.theme.TranUnitAppTheme
 
 

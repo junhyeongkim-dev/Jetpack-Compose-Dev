@@ -1,7 +1,6 @@
-package com.example.tranunitapp.compose.keypad
+package com.example.tranunitapp.component.keypad
 
 import android.icu.text.DecimalFormat
-import android.icu.text.NumberFormat
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
@@ -40,7 +39,7 @@ import com.example.tranunitapp.R
 import com.example.tranunitapp.ui.theme.TranUnitAppTheme
 import com.example.tranunitapp.viewmodel.IMainActivityInput
 import com.example.tranunitapp.viewmodel.IMainActivityOutput
-import com.example.tranunitapp.viewmodel.UnitType
+import com.example.tranunitapp.types.UnitType
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

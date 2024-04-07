@@ -3,8 +3,8 @@ package com.example.tranunitapp.viewmodel
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import androidx.lifecycle.liveData
 import com.example.tranunitapp.KEY_PAD_BACK
+import com.example.tranunitapp.types.UnitType
 import dagger.hilt.android.lifecycle.HiltViewModel
 import javax.inject.Inject
 
